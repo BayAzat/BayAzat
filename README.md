@@ -6,12 +6,12 @@
 - Тестовая документация
   -  [Чек-листы](https://ссылочку_сюда)
   -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Mind maps](https://ссылочку_сюда)
   -  [Баг-репорты](https://ссылочку_сюда)
-- Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
-- SQL запросы 
-  -  [Название проектв](https://ссылочку_сюда)
+   -  [Mind maps](https://ссылочку_сюда)
+- [Postman](https://ссылочку_сюда)
+- [SQL](https://ссылочку_сюда)
+- [DevTools](https://ссылочку_сюда)
+- [Charles](https://ссылочку_сюда)
 
 ## Сертификаты
 
@@ -20,6 +20,8 @@
   -  [Интерактивный тренажер по SQL, stepik.org](https://github.com/BayAzat/BayAzat/blob/5de5ab7b57dbc1a7a6c0d804e5104f642e4bf107/certificates/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9%20%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%20%D0%BF%D0%BE%20SQL,%20stepik.org%202022.pdf)
 
 ## Инструменты
+
+Postman Git Gitbash JIRA
 
 ## Мои контакты
 
