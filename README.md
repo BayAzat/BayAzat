@@ -5,9 +5,9 @@
 ## Портфолио 
 - Тестовая документация
   -  [Чек-листы](https://github.com/BayAzat/BayAzat/tree/main/Check-lists)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
-   - [Mind maps](https://ссылочку_сюда)
+  -  [Тест-кейсы](https://github.com/BayAzat/BayAzat/tree/main/Test_cases)
+  -  [Баг-репорты](https://github.com/BayAzat/BayAzat/tree/main/Bug_report)
+
 - [Postman](https://github.com/BayAzat/BayAzat/tree/main/Postman)
 - [SQL](https://github.com/BayAzat/BayAzat/tree/main/SQL)
 - [DevTools](https://github.com/BayAzat/BayAzat/tree/main/DevTools)
