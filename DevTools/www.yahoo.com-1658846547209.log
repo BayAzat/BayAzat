@@ -1,0 +1,25 @@
+The service worker navigation preload request was cancelled before 'preloadResponse' settled. If you intend to use 'preloadResponse', use waitUntil() or respondWith() to wait for the promise to settle.
+gpt.js:1          Failed to load resource: net::ERR_CONNECTION_RESET
+gpt.js:1          Failed to load resource: net::ERR_CONNECTION_RESET
+gpt.js:1          Failed to load resource: net::ERR_CONNECTION_RESET
+pixel:1          Failed to load resource: net::ERR_CONNECTION_RESET
+pixel:1          Failed to load resource: net::ERR_CONNECTION_RESET
+pixel:1          Failed to load resource: net::ERR_CONNECTION_RESET
+pixel:1          Failed to load resource: net::ERR_CONNECTION_RESET
+pixel:1          Failed to load resource: net::ERR_CONNECTION_RESET
+pixel:1          Failed to load resource: net::ERR_CONNECTION_RESET
+gpt.js:1          Failed to load resource: net::ERR_CONNECTION_RESET
+gpt.js:1          Failed to load resource: net::ERR_CONNECTION_RESET
+gpt.js:1          Failed to load resource: net::ERR_CONNECTION_RESET
+pixel:1          Failed to load resource: net::ERR_CONNECTION_RESET
+pixel:1          Failed to load resource: net::ERR_CONNECTION_RESET
+pixel:1          Failed to load resource: net::ERR_CONNECTION_RESET
+pixel:1          Failed to load resource: net::ERR_CONNECTION_RESET
+pixel:1          Failed to load resource: net::ERR_CONNECTION_RESET
+pixel:1          Failed to load resource: net::ERR_CONNECTION_RESET
+cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc&google_hm=WXVXM2VUbXN3NFE5a2xFNHp6bVNkQQ&gdpr=&gdpr_consent=:1          Failed to load resource: net::ERR_CONNECTION_RESET
+cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc&google_hm=WXVXM2VUbXN3NFE5a2xFNHp6bVNkQQ&gdpr=&gdpr_consent=:1          Failed to load resource: net::ERR_CONNECTION_RESET
+cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc&google_hm=WXVXM2VUbXN3NFE5a2xFNHp6bVNkQQ&gdpr=&gdpr_consent=:1          Failed to load resource: net::ERR_CONNECTION_RESET
+cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc&google_hm=ZVJqa0FpUXhpNC1aQmdVTGtJelk3QQ&gdpr=&gdpr_consent=:1          Failed to load resource: net::ERR_CONNECTION_RESET
+cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc&google_hm=ZVJqa0FpUXhpNC1aQmdVTGtJelk3QQ&gdpr=&gdpr_consent=:1          Failed to load resource: net::ERR_CONNECTION_RESET
+cm.g.doubleclick.net/pixel?google_nid=contextweb&google_cm&google_sc&google_hm=ZVJqa0FpUXhpNC1aQmdVTGtJelk3QQ&gdpr=&gdpr_consent=:1          Failed to load resource: net::ERR_CONNECTION_RESET
