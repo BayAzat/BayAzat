@@ -4,14 +4,14 @@
 
 ## Портфолио 
 - Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
+  -  [Чек-листы](https://github.com/BayAzat/BayAzat/tree/main/Check-lists)
   -  [Тест-кейсы](https://ссылочку_сюда)
   -  [Баг-репорты](https://ссылочку_сюда)
-   -  [Mind maps](https://ссылочку_сюда)
-- [Postman](https://ссылочку_сюда)
-- [SQL](https://ссылочку_сюда)
-- [DevTools](https://ссылочку_сюда)
-- [Charles](https://ссылочку_сюда)
+   - [Mind maps](https://ссылочку_сюда)
+- [Postman](https://github.com/BayAzat/BayAzat/tree/main/Postman)
+- [SQL](https://github.com/BayAzat/BayAzat/tree/main/SQL)
+- [DevTools](https://github.com/BayAzat/BayAzat/tree/main/DevTools)
+- [Charles](https://github.com/BayAzat/BayAzat/tree/main/Charles)
 
 ## Сертификаты
 
