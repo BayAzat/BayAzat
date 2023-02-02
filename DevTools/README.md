@@ -1,9 +1,10 @@
-# DevTools HW video YouTube:
+## Видео практики с DevTools на YouTube:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Y09AKPrFU0c
-" target="_blank"><img src="http://img.youtube.com/vi/Y09AKPrFU0c/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="720" height="540" border="10" /></a>
+" target="_blank"><img src="https://github.com/BayAzat/BayAzat/blob/main/DevTools/screen_youtube.png" 
+alt="IMAGE ALT TEXT HERE" width="720" height="450" border="10" /></a>
 
+## Практика:
 1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
  3. Найти инспектором кнопку Submit и выровнять слово Submit по центру
