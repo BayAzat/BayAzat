@@ -21,7 +21,8 @@
 
 ## Инструменты
 
-Postman Git Gitbash JIRA
+![Postman](https://github.com/BayAzat/BayAzat/blob/main/Images/postman--48.png) 
+![Git](https://github.com/BayAzat/BayAzat/blob/main/Images/icons8-git-48.png) Gitbash JIRA
 
 ## Мои контакты
 
