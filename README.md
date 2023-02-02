@@ -9,7 +9,7 @@
   -  [Баг-репорты](https://ссылочку_сюда)
    - [Mind maps](https://ссылочку_сюда)
 - [Postman](https://github.com/BayAzat/BayAzat/tree/main/Postman)
-- [SQL]([https://ссылочку_сюда](https://github.com/BayAzat/BayAzat/tree/main/SQL))
+- [SQL](https://github.com/BayAzat/BayAzat/tree/main/SQL))
 - [DevTools](https://github.com/BayAzat/BayAzat/tree/main/DevTools)
 - [Charles](https://github.com/BayAzat/BayAzat/tree/main/Charles)
 
