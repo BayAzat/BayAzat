@@ -29,3 +29,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/azatbay/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/azat_bay)
+
+
+![](https://komarev.com/ghpvc/?username=BayAzat&color=blueviolet)
