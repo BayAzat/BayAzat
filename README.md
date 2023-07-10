@@ -8,6 +8,7 @@
   -  [Тест-кейсы](https://github.com/BayAzat/BayAzat/tree/main/Test_cases)
   -  [Баг-репорты](https://github.com/BayAzat/BayAzat/tree/main/Bug_report)
 
+- [Автотесты](https://github.com/BayAzat/BayAzat/tree/main/Autotests)
 - [Postman](https://github.com/BayAzat/BayAzat/tree/main/Postman)
 - [SQL](https://github.com/BayAzat/BayAzat/tree/main/SQL)
 - [DevTools](https://github.com/BayAzat/BayAzat/tree/main/DevTools)
